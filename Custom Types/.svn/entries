@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2006-06-14T01:23:47.824205Z"
+   url="https://svn.sourceforge.net/svnroot/open-powerplant/trunk/constructor/Constructor_Pro/Constructor/Custom%20Types"
+   last-author="iwankerl"
+   kind="dir"
+   uuid="fa213028-db14-0410-b69f-f353c7333fbc"
+   repos="https://svn.sourceforge.net/svnroot/open-powerplant"
+   revision="9"/>
+<entry
+   committed-rev="5"
+   name="LTextTableView.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="7250f95eb9ed5b21a66dbd01a0779bfa"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="OldGAClasses.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="27e0dde1ee0b6c87078a42123a92322d"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="LTextEdit.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="c14744a8b8511f7a2bed5b327cc87b79"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="MorePanes.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="a2c7db585fac1af2606798dfc9e86cc5"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="Attachments.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="3cb33371b3e7d60bbafb42fa3621d48e"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="TextPanes.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="98a980494b7cf3739e7810f89e03fb0b"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:55.000000Z"/>
+<entry
+   committed-rev="5"
+   name="Appearance.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="f2a150e5cbc4baf5eec2ce959b9e7ad1"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:56.000000Z"/>
+<entry
+   committed-rev="5"
+   name="!CorePanes.CTYP"
+   text-time="2006-06-26T13:10:56.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="5c7e82ee66859d1ea1c77597c454ffef"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:10:56.000000Z"/>
+</wc-entries>

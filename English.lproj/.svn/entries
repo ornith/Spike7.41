@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2006-06-14T01:23:47.824205Z"
+   url="https://svn.sourceforge.net/svnroot/open-powerplant/trunk/constructor/Constructor_Pro/Constructor/English.lproj"
+   last-author="iwankerl"
+   kind="dir"
+   uuid="fa213028-db14-0410-b69f-f353c7333fbc"
+   repos="https://svn.sourceforge.net/svnroot/open-powerplant"
+   revision="9"/>
+<entry
+   committed-rev="5"
+   name="InfoPlist.strings"
+   text-time="2006-06-26T13:11:28.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="1983ab9acb8c10ac6e367f14a4451f84"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:11:28.000000Z"/>
+<entry
+   name="main.nib"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2006-06-14T01:23:47.824205Z"
+   url="https://svn.sourceforge.net/svnroot/open-powerplant/trunk/constructor/Constructor_Pro/Constructor/English.lproj/main.nib"
+   last-author="iwankerl"
+   kind="dir"
+   uuid="fa213028-db14-0410-b69f-f353c7333fbc"
+   repos="https://svn.sourceforge.net/svnroot/open-powerplant"
+   revision="9"/>
+<entry
+   committed-rev="5"
+   name="info.nib"
+   text-time="2006-06-26T13:11:28.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="aaed7fbf2ddab0f181b49bd5f4dd6f9f"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:11:28.000000Z"/>
+<entry
+   committed-rev="5"
+   name="classes.nib"
+   text-time="2006-06-26T13:11:28.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="66edb3905c617cd3f23084d4c775eb6e"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:11:28.000000Z"/>
+<entry
+   committed-rev="5"
+   name="objects.xib"
+   text-time="2006-06-26T13:11:28.000000Z"
+   committed-date="2006-06-14T01:23:47.824205Z"
+   checksum="b53df575d96f1a133d7573ffdf8b77e0"
+   last-author="iwankerl"
+   kind="file"
+   prop-time="2006-06-26T13:11:28.000000Z"/>
+</wc-entries>

@@ -1,0 +1,35 @@
+In file included from /DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1:
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.h:4:20: error: UltraU.h: No such file or directory
+In file included from /DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:6:
+/DevelopPPXCode/Spike 7/trunk/Source files/MonteCarlo.h:2:24: error: URandomLib.h: No such file or directory
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'void MakeIntvArray()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:29: warning: unused variable 'maxbns'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'void MakeIntvArray2()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:80: warning: unused variable 'maxbns'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'void MakeIntvArray3()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:158: warning: unused variable 'maxbns'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'void DoStatPermutation()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:349: error: expected initializer before '*' token
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:350: error: 'gsl_rng' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:350: error: 'r' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:342: warning: unused variable 'myval'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'Float64 RunKSStatProb()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:648: warning: unused variable 'fn1'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:648: warning: unused variable 'fn2'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'Float64 RunTheta()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:784: warning: unused variable 'sumx'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:784: warning: unused variable 'sumy'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:784: warning: unused variable 'sumxx'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:784: warning: unused variable 'sumxy'
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'CSpike6App::BinRecord PermuteList(UInt32)':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1350: error: 'gsl_rng' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1350: error: 'r' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1351: error: 'gsl_rng_env_setup' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1352: error: 'T' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1352: error: 'gsl_rng_default' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1353: error: 'gsl_rng_alloc' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1354: error: 'gsl_rng_uniform' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp: In function 'void RunCumPTSH3()':
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1623: error: 'mintie' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1623: error: 'r' was not declared in this scope
+/DevelopPPXCode/Spike 7/trunk/Source files/Analyze2.1.cp:1623: error: 'gsl_rng_uniform' was not declared in this scope
